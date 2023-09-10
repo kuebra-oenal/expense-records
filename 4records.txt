@@ -1,0 +1,31 @@
+===========================
+
+Records for Week 1
+meat: 99.99
+vegetables: 199.99
+snacks: 35.99
+Total: 335.97
+===========================
+
+Records for Week 2
+meat: 49.99
+vegetables: 99.99
+snacks: 20.99
+Total: 170.97
+===========================
+
+Records for Week 3
+meat: 10.99
+vegetables: 20.99
+snacks: 10.99
+Total: 42.97
+===========================
+
+Records for Week 4
+meat: 0
+vegetables: 30.99
+snacks: 0
+Total: 30.99
+===========================
+Total: 580.9
+Weekly average: 145.225
